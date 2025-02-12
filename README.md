@@ -157,12 +157,12 @@ Work Exchange/
 ## 專案技術
 
 - Node.js v16.15.0
-- React.js v18.2.0
-- React Router v6.9.0
-- React Hook Form v7.43.7
+- React.js v18.2.0-frontend development with functional component separation
+- React Router v6.9.0-Route switching and page navigation
+- React Hook Form v7.43.7-Form validation tool for member registration, login, and comment posting functionality
 - Vite v4.1.0
 - Axios v1.3.4
-- Tailwind CSS v3.2.7
+- Tailwind CSS v3.2.7-layout and custom styling for components
 - SweetAlert2 v11.7.3
 - Flowbite v1.6.4
 
